@@ -19,7 +19,7 @@ Out of scope by design: data already held in plaintext outside the key-release p
 
 - Append-only Merkle log (RFC 9162) with witness cosigning
 - 3-of-5 key release gated on log inclusion
-- Consult-scoped delegation to clinicians and AI agents, building on Akil and Pallas (DPM 2026)
+- Consult-scoped delegation to clinicians and AI agents, building on our [DPM 2026 paper](https://deic.uab.cat/dpm/dpm2026/resources/dpm2026-preproceedings.pdf)
 - The patient's monitor
 - An attack harness and a one-command experiment on synthetic data only
 
